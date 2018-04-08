@@ -11,7 +11,7 @@
 }
 
 #header{
-	float: center;
+	text-align: center;
 }
 body{
 	font: 16px Helvetica, Sans-Serif;
