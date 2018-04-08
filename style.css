@@ -10,6 +10,10 @@
 	text-align: left;
 }
 
+h1{
+	border-bottom: 1px solid #999;
+}
+
 #header h1{
 	text-align: center;
 }
